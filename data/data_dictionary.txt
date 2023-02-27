@@ -1,0 +1,32 @@
+heart_disease:
+    - yes -> patient have a heart disease
+    - no -> patient do not have a heart disease
+
+
+age:
+    - age of the patient
+    - in years
+
+
+gender:
+    - gender of the patient
+    - male, female
+
+
+chest_pain:
+    - type of chest pain
+    - 0 -> typical angina
+    - 1 -> atypical angina
+    - 2 -> non-anginal pain
+    - 3 -> asymptomatic
+
+
+resting_blood_pressure:
+    - resting blood pressure
+    - in mmHg
+
+
+cholesterol:
+    - patient's cholesterol
+    - in mg/dl
+    - fetched via BMI sensor
